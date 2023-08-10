@@ -1,2 +1,3 @@
-"# Searching ALGO" 
-Paste algo here
+List of Searching Algorithms: 
+
+1) Linear Search
